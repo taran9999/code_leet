@@ -1,4 +1,4 @@
-from code1 import solution, ListNode
+from code2 import solution, ListNode
 from unittest import TestCase, main
 
 
